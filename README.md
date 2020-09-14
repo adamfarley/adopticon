@@ -28,4 +28,4 @@ To set this up on a new machine, here are the linux instructions:
 - git clone <This repo> .
 
 ## 3) Features
-- [Nightly Failures Summary](./nightly_failures_summary)
+- [Nightly Failures Summary](./nightly_failures_summary/index.php)
