@@ -15,8 +15,6 @@ functionality which should be stored in the relevant file in the include directo
 
 Each tool should be linked in [index.php](./index.php) for easy access.
 
-This repo is currently made available via a webserver [here](http://adopticon1.fyre.ibm.com/index.html).
-
 ## 2) Setup
 
 To set this up on a new machine, here are the linux instructions:
