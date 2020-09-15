@@ -23,7 +23,7 @@ To set this up on a new machine, here are the linux instructions:
 - apt-get install php libapache2-mod-php
 - cd /var/www/html
 - rm ./*
-- git clone <This repo> .
+- git clone \<This repo\> .
 
 ## 3) Features
 - [Nightly Failures Summary](./nightly_failures_summary/index.php)
